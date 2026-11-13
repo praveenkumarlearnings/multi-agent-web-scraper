@@ -1,0 +1,5 @@
+﻿.env
+__pycache__/
+venv/
+research_dataset.*
+research_report.txt
